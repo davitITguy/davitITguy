@@ -10,8 +10,8 @@ What's humans strongest qualities? adaptation and improvement, you may ask what'
 * 🖥️  See my portfolio at [SPANDERA.TECH](http://spandera.tech)
 * ✉️  You can contact me at [dspanderashvili@gmail.com](mailto:dspanderashvili@gmail.com)
 * 🚀  I'm currently working on [Markup / Front-End / React / Next.js / Wordpress](http://spandera.tech)
-* 🧠  I'm learning React / Next.js
-* 🤝  I'm open to collaborating on Projects which started with passion and FIRE 🔥
+* 🧠  I'm daily improving at React / Next.js
+* 🤝  I'm open to collaborating on projects which started with passion and FIRE 🔥
 
 ### Skills
 

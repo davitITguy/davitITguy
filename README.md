@@ -7,7 +7,7 @@ Passionate Software Engineer 🔥 Front-End Developer 💻 Stark Mentality 💪
 What's humans strongest qualities? adaptation and improvement, you may ask what's the difference? first, is to adapt to given situation and became part of society, Only wiser man use improvement as a weapon to improve quality of environment. Hello I'm Davit, psychology lover and I try to always improve my environment. It may be a workspace a relationships or even maybe some random events occurring from time to time, I believe this little moments create life and life's opportunities. Same principles apply in work, study a lot ask a lot questions improve to the imaginary maximum and go a little beyond. One of my favourite scientist said "...What is the meaning of perfect, If there is something perfect there is nothing above it no space for intelligence or ability it's better to be more wonderful than anything that existed before you but never perfect and search joy in that... " if you enjoyed this quote I have plenty to interest you.
 
 * 🌍  I'm based in Georgia
-* 🖥️  See my portfolio at [SPANDERA.TECH](http://spandera.tech)
+* 🖥️  See my portfolio at [SPANDERASHVILI.COM](https://spanderashvili.com)
 * ✉️  You can contact me at [dspanderashvili@gmail.com](mailto:dspanderashvili@gmail.com)
 * 🚀  I'm currently working on [Markup / Front-End / React / Next.js / Wordpress](http://spandera.tech)
 * 🧠  I'm daily improving at React / Next.js

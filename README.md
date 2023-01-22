@@ -7,7 +7,7 @@ Passionate Software Engineer 🔥 Front-End Developer 💻 Stark Mentality 💪
 I've been learning to code for 5 years and after landing my first job my goal was to improve my skillset. Started with WordPress which gave me general knowledge of web and its mechanics and later upgraded to Reactjs/Nextjs. Currently, I'm trying to find best practices and design patterns, to write the most efficient code and to set standards which will be impactful for the team I'll be part of.
 
 *   🌍  I'm based in Georgia
-*   🖥️  See my portfolio at [Be a guest on my portfolio website](http://spanderashvili.com/)
+*   🖥️  [Be a guest on my portfolio website](http://spanderashvili.com/)
 *   ✉️  You can contact me at [contact@spanderashvili.com](mailto:contact@spanderashvili.com)
 *   🚀  I'm currently working on [a tipping app in react.js](http://tippr.ge)
 *   🧠  I'm learning React.js Next.js and TypeScript

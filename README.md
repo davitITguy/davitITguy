@@ -4,7 +4,7 @@ Hi 👋 My name is Davit Spanderashvili
 Passionate Software Engineer 🔥 Front-End Developer 💻 Stark Mentality 💪
 -------------------------------------------------------------------------
 
-I've been learning to code for 5 years and after landing my first job my goal was to improve my skillset, Started with wordpress which gave me general knowladge of web and its mechanics and later upgraded to Reactjs/Nextjs. Currently try to find best practices and design patterns to write most efficient code and to set standarts which will be impactful for team I'll be part of.
+I've been learning to code for 5 years and after landing my first job my goal was to improve my skillset. Started with WordPress which gave me general knowledge of web and its mechanics and later upgraded to Reactjs/Nextjs. Currently, I'm trying to find best practices and design patterns, to write the most efficient code and to set standards which will be impactful for the team I'll be part of.
 
 *   🌍  I'm based in Georgia
 *   🖥️  See my portfolio at [Be a guest on my portfolio website](http://spanderashvili.com/)

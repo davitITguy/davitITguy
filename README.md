@@ -9,7 +9,7 @@ I've been learning to code for 5 years and after landing my first job my goal wa
 *   🌍  I'm based in Georgia
 *   🖥️  [Be a guest on my portfolio website](http://spanderashvili.com/)
 *   ✉️  You can contact me at [contact@spanderashvili.com](mailto:contact@spanderashvili.com)
-*   🚀  I'm currently working on [a tipping app in react.js](http://tippr.ge)
+*   🚀  I'm currently working on [a tipping app in react.js](http://tippr.ge/home)
 *   🧠  I'm learning React.js Next.js and TypeScript
 *   🤝  I'm open to collaborating on projects which started with passion and FIRE 🔥### Skills 
 <p align="left">

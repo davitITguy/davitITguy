@@ -11,7 +11,9 @@ I've been learning to code for 5 years and after landing my first job my goal wa
 *   ✉️  You can contact me at [contact@spanderashvili.com](mailto:contact@spanderashvili.com)
 *   🚀  I'm currently working on [a tipping app in react.js](http://tippr.ge/home)
 *   🧠  I'm learning React.js Next.js and TypeScript
-*   🤝  I'm open to collaborating on projects which started with passion and FIRE 🔥### Skills 
+*   🤝  I'm open to collaborating on projects which started with passion and FIRE 🔥
+*   
+*   ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
